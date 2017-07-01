@@ -5,7 +5,7 @@ body {
 
 header {
   color: white;
-  background-image: url("/resources/images/the-flatiron-building.png");
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 
 h1 {
@@ -14,6 +14,7 @@ h1 {
 
 a {
   font-size: 18px;
+  color: white;
 }
 
 h2 {
