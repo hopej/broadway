@@ -3,7 +3,7 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
-header {
+header, .callout {
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
@@ -21,7 +21,7 @@ h2 {
   font-size: 32px;
 }
 
-h3 {
+h3, .callout {
   font-size: 23px;
 }
 
